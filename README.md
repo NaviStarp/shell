@@ -1,4 +1,4 @@
-# Quickshell Obsidian Emerald // Sway Desktop Shell
+#  Sway Desktop Shell
 
 Una suite moderna, modular y ultraligera de interfaz de escritorio para **Wayland (Sway / SwayFX)** construida sobre **Quickshell** (Qt Quick / QML), inspirada en la precisión CAD y el diseño de interacción fluida estilo Apple (físicas elásticas, Dynamic Island y modo reposo ambiental).
 
